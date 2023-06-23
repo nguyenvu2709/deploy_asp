@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cp ./build /var/www/eyesight.is-tech.vn/html
+sudo cp -r ./build/* /var/www/eyesight.is-tech.vn/html
