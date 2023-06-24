@@ -1,1 +1,0 @@
-sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/nguyenvu-nginx.key -out /etc/ssl/certs/nguyenvu-nginx.crt
