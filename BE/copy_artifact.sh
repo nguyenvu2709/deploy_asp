@@ -8,3 +8,7 @@ sudo cp supervisor.conf /etc/supervisor/conf.d/nguyenvu.conf
 sudo supervisorctl update
 sudo supervisorctl start nguyenvu-eyesight:*
 
+sudo touch /etc/nginx/sites-available/nguyenvu-be.conf
+sudo cp nginx.conf /etc/nginx/sites-available/nguyenvu-be.conf
+sudo ln -s  /etc/nginx/sites-available/nguyenvu-be.conf /etc/nginx/sites-enabled/nguyenvu-be.conf
+
