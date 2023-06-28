@@ -8,6 +8,8 @@ namespace ETBE.Models
         { }
 
         public DbSet<User> Users { get; set; }
+
+        public DbSet<UserRole> UserRole { get; set; }
     }
 }
 
