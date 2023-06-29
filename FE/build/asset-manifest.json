@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5fcd7ed.css",
-    "main.js": "/static/js/main.ab2c6b0f.js",
+    "main.css": "/static/css/main.66cd4333.css",
+    "main.js": "/static/js/main.c7ad1923.js",
     "static/js/787.473cb8a2.chunk.js": "/static/js/787.473cb8a2.chunk.js",
     "static/media/protect.png": "/static/media/protect.10e4418dc71c1d054d89.png",
     "static/media/eye-food.png": "/static/media/eye-food.8f1771d558a4fa2a2043.png",
+    "static/media/doctor2.png": "/static/media/doctor2.df2c8bcaa71b173cc020.png",
     "static/media/Covid19.jpg": "/static/media/Covid19.759cd6047bb6d53281a1.jpg",
+    "static/media/doctor4.png": "/static/media/doctor4.d5f888413ac2e53f5114.png",
+    "static/media/ES.png": "/static/media/ES.d1261cc184963a4be557.png",
+    "static/media/heart.png": "/static/media/heart.257eede46be22247e1da.png",
     "static/media/Eyes3.jpg": "/static/media/Eyes3.7f8de213530053c4c7f7.jpg",
     "static/media/hoc-online.jpg": "/static/media/hoc-online.c82b7cd5946c37ba4b99.jpg",
     "static/media/Eyes1.jpg": "/static/media/Eyes1.eb6798e236b89ae2bcce.jpg",
     "static/media/result.jpg": "/static/media/result.883a5ccd7feb7f7e3646.jpg",
+    "static/media/doctor5.jpg": "/static/media/doctor5.fc653af4207a1eee1e59.jpg",
     "static/media/bg-login.jpg": "/static/media/bg-login.04b9108772a4f411a732.jpg",
+    "static/media/doctor3.png": "/static/media/doctor3.88512deda507ee9d2dfd.png",
     "static/media/LogoEyesight.png": "/static/media/LogoEyesight.21dbf429d80cfd2c929b.png",
+    "static/media/doctor.jpg": "/static/media/doctor.5225051e3f6203b1b37d.jpg",
     "static/media/bg-admin.jpg": "/static/media/bg-admin.d024fd38d5ab488ea4d9.jpg",
-    "static/media/user.jpg": "/static/media/user.a99398fd20de03a26e09.jpg",
     "static/media/Eyes2.jpg": "/static/media/Eyes2.b4930f4c31396ec3a91b.jpg",
     "index.html": "/index.html",
-    "main.f5fcd7ed.css.map": "/static/css/main.f5fcd7ed.css.map",
-    "main.ab2c6b0f.js.map": "/static/js/main.ab2c6b0f.js.map",
+    "main.66cd4333.css.map": "/static/css/main.66cd4333.css.map",
+    "main.c7ad1923.js.map": "/static/js/main.c7ad1923.js.map",
     "787.473cb8a2.chunk.js.map": "/static/js/787.473cb8a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5fcd7ed.css",
-    "static/js/main.ab2c6b0f.js"
+    "static/css/main.66cd4333.css",
+    "static/js/main.c7ad1923.js"
   ]
 }
